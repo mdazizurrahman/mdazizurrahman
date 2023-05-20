@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdazizurrahman
 - 👀 ISP, Freeradius Laravel PHP Developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Project demo link: https://isp.somahat.net/
+- 💞️ Project Demo link: https://india.somahat.net/
 - 📫 How to reach me ...
 
 <!---
