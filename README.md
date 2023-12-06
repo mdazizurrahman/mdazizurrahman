@@ -2,6 +2,8 @@
 - 👀 ISP, Freeradius Laravel PHP Developer
 - 🌱 Project demo link: https://isp.somahat.net/
 - 💞️ Project Demo link: https://india.somahat.net/
+- 💞️ Project Demo link: https://infinity.somahat.net/
+- 💞️ Project Demo link: https://erp.somahat.com/
 - 📫 How to reach me ...
 
 <!---
